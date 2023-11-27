@@ -1,0 +1,1 @@
+alert ("Cursos profissionalizantes, escolha algum para cursar e ter mais oportunidades de emprego");
